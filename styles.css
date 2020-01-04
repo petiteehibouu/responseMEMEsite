@@ -1,0 +1,54 @@
+/* Interview */
+* {
+	box-sizing: border-box;
+    }
+
+body {
+	background-color: blueviolet;
+    }
+/*Title*/
+h1 {
+    font-color: yellow;
+    font-size: 3.5em;
+    font-family: 'Berkshire Swash', cursive;
+    }
+/*Magic subtitle*/
+h2 {
+    font-size:2em;
+    font-family: 'Petit Formal Script', cursive;
+        transition: color 20s;
+        color: yellow;
+    }
+.navigation {
+    text-align: center;
+    border: 2px solid;
+    border-radius: -2em;
+    padding: .2em .2em;
+    margin: -.2em .2em;
+    font-family: 'Coming Soon', cursive;
+    font-size:1em;
+    background-color: lightgrey;
+    color: purple;
+    }
+/*Properties for the title box*/
+.title {
+    text-align: center;
+    border: 10px solid;
+    border-radius: .5em;
+    padding: 2em 2em;
+    margin: 1em 0;
+    color: orange;
+    background-color: black;
+    }
+/*Properties for the bottom 'footer' text*/
+.footer {
+    text-align: center;
+    background-color: purple;
+    color: orange;
+    border: 4px dashed;
+    border-radius: 4px;
+    padding: 4em 4em;
+    height: 5px;
+    margin: 4em;
+
+}
